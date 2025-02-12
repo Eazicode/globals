@@ -1,6 +1,6 @@
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
-    background: #1DD1A1;
+    background: #ffbc00;
     float: left;
     min-height: 60px;
     padding: 4px 0 0;
@@ -134,7 +134,7 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: black;
-    content: "DELLOITE GLOBALS";
+    content : 'DELLOITTE GLOBALS';
     font-size: 16px;
     font-weight: 600;
     left: 10px;
