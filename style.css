@@ -3105,15 +3105,6 @@ div#status {
   visibility: visible;
   top: 50%;
 }
-.scroll-area .go-top.active {
-  top: 95%;
-  -webkit-transform: translateY(-98%);
-  opacity: 1;
-  visibility: visible;
-  border-radius: 0;
-  right: 80px;
-  border-radius: 100%;
-}
 .top-wrap {
   position: relative;
 }
